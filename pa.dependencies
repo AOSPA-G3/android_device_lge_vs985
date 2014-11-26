@@ -25,7 +25,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "AOSPA-legacy/android_kernel_lge_g3",
+        "repository":   "AOSPA-G3/android_kernel_lge_g3",
         "target_path":  "kernel/lge/g3",
         "revision":     "kitkat"
     }
